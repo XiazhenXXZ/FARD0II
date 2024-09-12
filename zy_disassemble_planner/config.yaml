@@ -1,0 +1,29 @@
+Policy:
+  Action1:
+    ID: 'Block-Y1'
+    Dis_Direction: '+z'
+    Grasping_Ori: 'Cross'
+    Grasping_Pos:
+      - 0.5312
+      - 0.0063
+      - 0.0749
+
+  Action2:
+    ID: 'Block-B1'
+    Dis_Direction: '+x'
+    Grasping_Ori: 'Side'
+    Grasping_Pos:
+      - 0.5856
+      - 0.0456
+      - 0.1040
+
+  Action3:
+    ID: 'Block-Y1'
+    Dis_Direction: '+z'
+    Grasping_Ori: 'Cross'
+    Grasping_Pos:
+      - 0.5799
+      - 0.0067
+      - 0.0982
+
+
